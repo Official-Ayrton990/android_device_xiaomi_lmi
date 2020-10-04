@@ -1,6 +1,6 @@
 Copyright (C) 2019-2020 - The LineageOS Project, 2020 cave_diver / ojalbrecht@gmail.com
 
-The Xiaomi Poco F2 Pro / Redmi K30 Pro (codenamed _"lmi/"_) are high-end smartphones from Xiaomi.
+The Xiaomi Poco F2 Pro / Redmi K30 Pro (codenamed _"lmi"_) are high-end smartphones from Xiaomi.
 
 The devices were announced and released in May 2020.
 
