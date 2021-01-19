@@ -15,14 +15,14 @@
  * limitations under the License.
  */
 
-package org.lineageos.devicesettings;
+package org.aospextended.devicesettings;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
-import org.lineageos.devicesettings.popupcamera.PopupCameraUtils;
+import org.aospextended.devicesettings.popupcamera.PopupCameraUtils;
 
 public class BootCompletedReceiver extends BroadcastReceiver {
 
