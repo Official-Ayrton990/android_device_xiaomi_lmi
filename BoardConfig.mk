@@ -22,6 +22,7 @@ SOONG_CONFIG_XIAOMI_KONA_FOD_SIZE = 202
 
 # Properties
 TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop
+TARGET_BOOT_ANIMATION_RES += 1080
 
 # inherit from the proprietary version
 -include vendor/xiaomi/lmi/BoardConfigVendor.mk

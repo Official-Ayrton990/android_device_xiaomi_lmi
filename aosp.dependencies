@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "PixelExperience-Devices/device_xiaomi_sm8250-common",
+    "target_path": "device/xiaomi/sm8250-common"
+    "branch": "eleven"
+  }
+  {
+    "repository": "PixelExperience-Devices/vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "eleven"
+  }
+  {
+    "repository": "PixelExperience-Devices/kernel_xiaomi_sm8250",
+    "target_path": "kernel/xiaomi/sm8250"
+    "branch": "eleven"
+  }
+]
